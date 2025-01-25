@@ -75,6 +75,8 @@ opossum-search/
 - `Dockerfile`: Used to create a Docker image to serve the app.
 ##Screenshots
 ![image alt](https://github.com/NaveenaAMR/Opossum_search/blob/96ac26d48a89a0d7bbc38c011bd6643ab7a48ff9/SS/Screenshot%20from%202025-01-25%2022-35-38.png)
+![image alt](https://github.com/NaveenaAMR/Opossum_search/blob/ab9fa796fc447dc299eb0d677b6e6fafb959a08f/SS/Screenshot%20from%202025-01-25%2022-42-21.png)
+![image alt](https://github.com/NaveenaAMR/Opossum_search/blob/ab9fa796fc447dc299eb0d677b6e6fafb959a08f/SS/Screenshot%20from%202025-01-25%2022-42-31.png)
 
 
 ### Key points:
