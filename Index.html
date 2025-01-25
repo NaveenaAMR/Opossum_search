@@ -1,0 +1,48 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Opossum Search</title>
+<style>
+body {
+  font-family: sans-serif;
+  text-align: center; /* Center text */
+}
+#search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+#search-input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px 0 0 5px; /* Rounded corners */
+  width: 300px;
+}
+#search-button {
+  padding: 10px 20px;
+  background-color: #4CAF50; /* Green button */
+  color: white;
+  border: none;
+  border-radius: 0 5px 5px 0; /* Rounded corners */
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+  <h1>Opossum Search</h1>
+  <div id="search-container">
+    <input type="text" id="search-input" placeholder="Enter your search query">
+    <button id="search-button">Search</button>
+  </div>
+
+  <script>
+    document.getElementById('search-button').addEventListener('click', function() {
+      let query = document.getElementById('search-input').value;
+      window.location.href = 'https://www.google.com/search?q=' + encodeURIComponent(query + ' opossum');
+    });
+  </script>
+
+</body>
+</html>
