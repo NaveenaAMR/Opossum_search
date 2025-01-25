@@ -73,7 +73,8 @@ opossum-search/
 
 - `Index.html`: Contains the HTML, CSS, and JavaScript for the web app.
 - `Dockerfile`: Used to create a Docker image to serve the app.
-
+##Screenshots
+![image alt](https://github.com/NaveenaAMR/Opossum_search/blob/96ac26d48a89a0d7bbc38c011bd6643ab7a48ff9/SS/Screenshot%20from%202025-01-25%2022-35-38.png)
 
 
 ### Key points:
