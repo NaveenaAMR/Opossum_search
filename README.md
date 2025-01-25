@@ -1,4 +1,4 @@
-Here’s a structured `README.md` file with Docker setup instructions for your "Opossum Search" web app:
+
 
 ```markdown
 # Opossum Search Web App
